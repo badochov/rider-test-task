@@ -1,0 +1,15 @@
+Encountered file structures: count
+
+(1 column: String, 2 column: Number, 3column: Date): 1
+(1 column: Date, 2 column: Number): 1
+
+
+
+Encountered file formats:
+(delimiter, number format, date format) : count
+
+(` `, thousands: ` `, digits: `.`, dd.MM.yyyy): 1
+(` `, thousands: ` `, digits: `.`, dd/MM/yyyy): 1
+
+
+
